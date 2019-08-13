@@ -41,7 +41,7 @@ conda install libgcc
 ## Usage
 
 ```bash
-python count_citations.py -d /Directory/To/Publications 
+python count_citations.py -d /path/to/publications 
 ```
 
 ## Contributing
