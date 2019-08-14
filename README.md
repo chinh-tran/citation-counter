@@ -1,6 +1,6 @@
 # Citation Counter
 
-Simple Python script which counts the citations in a set of publications. The idea is to find other interesting publications that are heavily linked with the already present ones. 
+Simple Python script to find identical references in a set of publications. The idea is to find other interesting papers that are linked with the already present ones. 
 
 ## Installation
 
